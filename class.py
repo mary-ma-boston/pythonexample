@@ -10,8 +10,8 @@ class Printtriangle:
     def Triangle(self,base_length):
         self.Test()
         #self.model
-        space = base_length-1
-        for row in range(bas2_length):
+        space = base_length-2
+        for row in range(base_length):
             row = row + 1
             print(" "*space,end="")
             print("*"*(2*row-1))
