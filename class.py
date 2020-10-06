@@ -11,7 +11,7 @@ class Printtriangle:
         self.Test()
         #self.model
         space = base_length-1
-        for row in range(base_length):
+        for row in range(bas2_length):
             row = row + 1
             print(" "*space,end="")
             print("*"*(2*row-1))
