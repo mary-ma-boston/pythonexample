@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<script type="text/javascript">
+        
+    function onTextChange(){
+       var inputContent =  document.getElementById('name').value;
+       document.getElementById('output').innerHTML = inputContent;
+    }
+    
+  </script>
+
+<body>
+
+<!-- Content will go here -->
+<label>input your contents</label>
+
+<input type="text" id="name" name="name"  oninput="onTextChange()">
+
+<label id="output"></label>
+
+
+      
+
+</body>
+</html>
