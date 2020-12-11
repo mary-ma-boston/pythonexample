@@ -1,0 +1,2 @@
+list1 = [3,4,5,2,1,0]
+print(list1.pop(1))

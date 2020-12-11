@@ -1,0 +1,1911 @@
+3.9
+Grubhub
+QA Engineer
+Boston, MA
+$35K-$60K (Glassdoor est.)
+Hiring Surge
+23d
+Grubhub is dedicated to connecting hungry diners with our wide network of restaurants across the country. Our innovative …
+---------------------------------
+Grubhub is dedicated to connecting hungry diners with our wide network of restaurants across the country. Our innovative technology, easy-to-use platforms and streamlined delivery capabilities make us an industry leader today, and in the future of online food ordering.
+We strive to create a workplace that reflects the diversity of our customers and the communities we serve. When you join our team, you become part of a community that works together to innovate, solve problems, take risks, grow, work hard and have a ton of fun in the process.
+We have a fast-paced environment and that is what our teams thrive on. Grubhub believes in empowering people and offering opportunities for development, as well as professional growth. We value strong, positive relationships in all areas: with each other, our customers and our greater community. DO you want to be part of a team of diverse collaborators in an authentically fun culture? If so, we want to talk to you - and hear what’s your favorite restaurant for food delivery!
+The LevelUp/Grubhub team is looking for an experienced QA Engineer to work alongside our developers, technical brand managers and designers to test and launch successful mobile and web apps. As a QA Engineer for the Agency team, your primary focus will be testing our mobile and web apps and SDKs, ensuring that the apps we launch are of the highest quality.
+
+In many cases, you’ll be working collaboratively with our program and product managers, designers, technical brand managers and developers to understand new functional requirements for our restaurant merchant apps, as well as coordinate bug triage meetings for the apps you test.
+In addition to testing, you will have the exciting opportunity to drive efficiencies and improvements to our QA process.
+This is a manual testing opportunity, but if you are interested in automation and don’t yet have automation “chops”, this could be the role for you as we are expanding our automation effort and will likely have more automation needs in the future.
+
+You have 2-5 years of relevant QA experience testing native mobile apps and web apps.
+You are comfortable working with bug reporting tools, like Jira, and are able to write clear and thorough bug reports that our product managers, technical brand managers and developers can easily understand and reproduce. You are comfortable using test case management tools to write test cases.
+You have excellent communication skills. You’ll need to work collaboratively with many teams at LevelUp/Grubhub, from technical brand management to product management to engineering. You will leverage your communication skills to write and maintain detailed test cases for our app-based features and functionality. These test cases will be shared with the rest of the QA team and sometimes even our clients. You will positively represent QA and actively engage with other teams in bug triage meetings and functional requirements and design review meetings.
+You love testing and appreciate releasing great software products. Your strong eye for detail complements your obsession for making sure our apps function as expected, look great and meet the needs of the end user and our merchants. You understand the concepts of different types of testing (functional, regression, etc.) and when to apply these methods to your test approach.
+You possess great attention to detail and are able to quickly identify functional and cosmetic bugs in our apps when testing against designs and functional requirements.
+You’re comfortable when things get technical. You don’t need a Bachelor’s degree in a technical field but if you do, it will help! If you have equivalent experience testing apps, then this is all you need to apply! You’ll be asked to use Postman to test API calls and emulators to test our mobile apps. You will be installing iOS and Android builds directly to mobile devices and for use in emulators. You will configure content and settings using an administration tool to test different functionality within the apps. Although this is a manual testing role, you won’t shy away from learning automation in the future.
+You learn quickly. The LevelUp/Grubhub apps have a lot of great functionality, and you’ll need to pick up all the ins and outs of the products in your first few months on the job, and retain all of that knowledge to help you test future projects.
+You love working in a fast-paced environment. Although we have a planning process in place, sometimes urgent needs arise and you’ll be willing to adjust your testing priorities to meet the needs of our clients.
+You are a creative thinker and continuous improver. You will identify lapses in our process and help us improve by suggesting and driving improvements to our QA process. You will help us become more effective and efficient as a QA organization.
+You have a get-it-done attitude. You recognize no bounds to the scope of your role and will do anything you can do to help get a product tested and shipped.
+
+Flexible PTO. Grubhub employees are provided a generous amount of time to recharge their batteries.
+Health and Wellness. We provide programs that support your overall well-being such as generous medical benefits, employee network groups, company-wide fitness challenges, and a comfortable and casual workplace! We also support our parents by offering 8 weeks of paid parent bonding time, a 4-week returnship program, and 6-8 weeks paid medical leave.
+Learning and Career Growth. Your personal and professional development is a priority at Grubhub. From day one, we empower you to lead and be an active participant in your career growth. We provide continuous learning opportunities, training, and coaching and mentorship programs.
+MealPerks. Who’s ready for some lunch? We provide our employees with a weekly Grubhub credit to enjoy and support local restaurants. We also offer company-wide meals several times a year to bring our Grubhub family together.
+Fun. Every Grubhub office has an employee-led Culture Crew that connects people through fun, meaningful events and initiatives. Some of our popular past events include: Wing-eating contests, Grubtoberfest, 5k Runs, Bring Your Child to Work Day, regular happy hours, and more!
+Social Impact. We believe in the importance of serving the communities that support our business. In addition, employees are given paid time off each year to support the causes that are important to them.
+
+
+Grubhub is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The EEO is the Law poster is available here: DOL Poster. If you are applying for a job in the U.S. and need a reasonable accommodation for any part of the employment process, please send an e-mail to TalentAcquisition@grubhub.com and let us know the nature of your request and contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+CA Privacy Notice: If you are a resident of the State of California and would like a copy of our CA privacy notice, please email privacy@grubhub.com.
+Apply Now: click Apply Now
+****************************
+3.8
+Digital Federal Credit Union
+Mortgage QA Underwriter, Chelmsford or Marlborough
+Chelmsford, MA
+$39K-$81K (Glassdoor est.)
+Hot
+20d
+Schedule: Monday - Friday 8:00 AM - 5:00 PM (40 hours)
+
+Essential Functions:
+
+Reasonable…
+---------------------------------
+Schedule: Monday - Friday 8:00 AM - 5:00 PM (40 hours)
+
+Essential Functions:
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Support Mortgage Department to develop and maintain an optimized and efficient pre-fund and post-closing QA/QC plan.
+Examine closed mortgage loan file documents to ascertain compliance with Fannie Mae, Freddie Mac, and Internal underwriting guidelines.
+Review steps include assessment of credit and underwriting documentation, as well as examination of credit reports, income documentation, and appraisal verifications.
+Calculation and evalutation of all income and credit worthy conditions.
+Detailed review of disclosures for timing and accuracy with a heightened focus on TRID.
+Track and report the results of testing, providing both technical and functional suggestions to enhance the member experience through the lending process and create efficiencies.
+Assist with responses to examination violations and develop action plans specific to DCU’s operations and corporate structure.
+Perform regulation specific project engagements related to mortgage and home equity loan originations including but not limited to: Equal Credit Opportunity Act (ECOA), Real Estate Settlement Procedures Act (RESPA), Regulation Z (Truth in Lending, Know Before You Owe), Regulation C (Home Mortgage Disclosure Act - HMDA), and other state and federal laws which may be applicable.
+Collaborate with Mortgage Department Management and Compliance to revise and implement new processes based on regulatory requirements, statuatory requirements, or business best practices.
+Provide detailed documentation for internal and external audit examinations.
+Responsible for ensuring the communication and execution of secondary market requirements are met.
+Create and coordinate executable plans of action for the roll out and communication (interdepartmental and organization wide) of existing and proposed mortgage lending regulatory procedure changes.
+Maintain knowledge of secondary market guidelines, product & pricing changes, and DCU policies and procedures to create a holistic approach to secondary review.
+Remediate defects identified by third party vendor for post-funding audits.
+Work closely with Mortgage Underwriting to identify areas of risk and weakness and design and implement process change and training.
+Assist in the development and maintenance of department policy and procedure documents.
+Complete all required Bank Secrecy Act related training annually and maintain an ongoing in-depth knowledge of DCU BSA policies and regulatory requirements
+Perform other job-related duties as assigned by Manager(s).
+Other Duties: Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+Perform other job-related duties as assigned by Managers(s).
+
+Other Duties:
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+
+Job Competencies:
+
+Strong ability to detect possible misrepresentation and/or fraud.
+Previous underwriting experience, and/or Quality Control review/audit experience of mortgage loans.
+Working knowledge of investor guidelines such as FNMA, FHLMC, Jumbo, Home Equity, and Portfolio loans.
+Ability to analyze risk as it relates to investment quality loans, critical thinking with short yet comprehensive write ups.
+Extensive knowledge of DU, LPA and manually underwritten loans.
+Ability to review audit documentation, perform analysis, validate, and document potential risk to determine course of appropriate corrective action and/or make recommendations of such action.
+Ability to collaborate, innovate, and change.
+
+Education and Experience Requirements:
+
+5-7 years of Mortgage Underwriting or comparable experience in QA/QC Underwriting
+BA/BS Degree Preferred (or equivalent work experience)
+Knowledge of State and Federal compliance regulations
+Knowledge of Secondary Market guidelines
+
+Additional Eligibility Requirements:
+
+Technical Skills (word, excel, outlook etc.)
+Excellent written and oral communication skills with the ability to rate and categorize risk ratings in a clear and concise manner.
+Ability to demonstrate excellent detail orientation, critical thinking, and analytical skills.
+Knowledge of Point-of-Sale/Loan Operating System (POS/LOS) (preferred)
+Requires compliance with the S.A.F.E. Mortgage Licensing Act of 2008 and all related regulations. Ongoing employment with Digital Federal Credit Union is contingent upon meeting all such requirements, including acceptable background investigation results. The S.A.F.E. registration with the Nationwide Mortgage Licensing System (NMLS) is required at the time of employment. The NMLS web site (mortgage.nationwidelicensingsystem.org) provides the questions and registration required for employment in this position.
+
+Work Environment:
+
+This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopier/scanner, filing cabinets, and fax machines.
+
+Physical Demands:
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. This is a largely sedentary role. While performing the duties of this job, the employee is regularly required to stand, talk, hear, and use hands and fingers to handle, feel or operate objects, tools or controls and to reach with hands and arms.
+
+Travel:
+
+Up to 5% travel may be required between DCU locations and/or professional conference for continuing education.
+
+Service Excellence: The DCU Way:
+
+All employees are expected to provide service excellence the “DCU Way” through teamwork and by providing quality service to internal and external members, incorporating the Guiding Principles of DCU’s culture:
+
+People come first
+Do the right thing
+Make a difference
+
+Bank Secrecy Act (BSA):
+
+All Credit Union employees are required to complete all BSA related training annually and maintain knowledge of current BSA policies, specifically those related to functions performed within the department and identify and report possible suspicious activity.
+
+We are proud to be an EEO/AA employer M/F/D/V
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)
+****************************
+2
+Slade Gorton & Co
+QA Director
+Boston, MA
+Easy Apply
+10d
+---------------------------------
+Summary: Plans, coordinates, and directs quality assurance program designed to ensure continuous production of products consistent with established standards. Ensure that all product is in adherence with company and federal specifications by performing the following duties personally or through subordinates.
+Essential Duties and Responsibilities are the following. Other duties may be assigned.
+Receiving Raw Material
+• Inspect frozen items received in-house and public cold storage facilities.
+• Oversee inspection of all raw materials received in-house.
+• Inspect product returns.
+Sanitation
+• Perform Daily sanitation checklist including inspections of warehouse, productions personnel and exterior grounds.
+• Maintain QA kitchen, freezer, samples, cooking supplies and cleanliness of equipment.
+HACCP
+• Oversee HACCP program including FDA inspection and 483 reports
+• Oversees calibration of thermometers used in receiving, QA Tech, cutting room and 8 Seafood Way.
+• Conduct Moisture Analysis of Fresh and Frozen Scallops
+QC Reports
+• Investigate customer complaints related to quality issues.
+• Review and approve all QA department invoices.
+QC Management & Record Keeping
+• Train and supervise QA department personnel.
+• Respond and research various queries from retail department such as samples, testing, product 1 inspections and tasting.
+• Daily review of industry related newsletters and monthly periodicals.
+• Maintain and update QC library with species identification info, and government regulations.
+• Attend various seminars sponsored by FDA, USDC, NFI and other continuing education programs.
+• Review of environmental test results and corrective and takes corrective actions.
+Supervisory Responsibilities
+• Manages QA staff in multiple locations. Is responsible for the overall direction, coordination, and evaluation of these units. Carries out supervisory responsibilities in accordance with the
+organization's policies and applicable laws. Responsibilities include training employees; planning, assigning, and directing work; appraising performance; rewarding and disciplining employees; addressing complaints and resolving problems.
+Qualifications
+• 7+ years experience as a QA manager with a major food processing/packaging company, preferably with fresh and/or frozen food.
+• HACCP Certification, Food Safety, Plant Sanitation and OSHA Trained.
+• Experience leading teams (internal/external collaboration) and implementing key initiatives.
+• Excellent verbal and written communication skills, as well as presentation skills.
+• Ability to manage a diverse work force.
+• Business focused on quality customer service.
+Environment
+• Cold and wet environment, safety clothing provided and is required to be worn.
+Education and Experience
+• BS/BA degree, or related fields.
+• Demonstrated experience managing perishable goods manufacturing and production facilities in a successful enterprise, as well as people evaluation and management.
+Computer Skills
+Proficiency with Microsoft office and hands-on experience
+
+Job Type: Full-time
+
+Pay: $70,000.00 - $85,000.00 per year
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Tuition reimbursement
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Experience:
+Quality Assurance: 1 year (Preferred)
+Work Location:
+One location
+Work Remotely:
+No
+****************************
+2.8
+Pritchard Industries
+Quality Assurance Manager
+Needham, MA
+$39K-$75K (Glassdoor est.)
+Easy Apply
+20d
+---------------------------------
+Janitorial Quality Assurance/Training Manager Job Description*
+The Janitorial Quality Assurance/Training Manager will strive to bring out the best in the facilities across a broad base of facility types and geographic locations. They will work to ensure that the employees, services, and processes meet contracted scopes of work and needs of the client. They will help design and enforce quality controls to maintain company standards through the use of our QA software Clean Touch. They will help communicate expectations to employees and provide feedback for coaching to the Director of Operations. Quality assurance managers must be excellent communicators with a strong desire to help others.
+
+Quality Assurance Specialist Responsibilities
+
+· Design, implement and improve company quality standards and processes.
+
+· Walk individual buildings inspecting areas to identify opportunities.
+
+· Customer interaction and engagement.
+
+· Analyze data to find areas for growth.
+
+· Training, motivating, coaching, and correcting employees to ensure that standards are met.
+
+· Utilize reports to track progress.
+
+· Create reports and distribute to appropriate operations personnel and client.
+
+· Formulate strategies to increase productivity.
+
+· Review processes to ensure that they align with current trends.
+
+· Strong written and oral communication skills.
+
+· Must be self-starter and able to work without close supervision.
+
+· Mid-Senior Level Management Experience required.
+
+Industry
+Commercial Properties
+Employment Type
+Full-time
+
+Job Functions
+Service level Quality Assurance
+Employee lever Training and Development
+Job Type: Full-time
+
+Pay: $65,000.00 - $80,000.00 per year
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Disability insurance
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Vision insurance
+Schedule:
+Monday to Friday
+Night shift
+Experience:
+Quality Assurance: 2 years (Required)
+Work Remotely:
+No
+****************************
+4.2
+Payfactors
+QA Engineer
+Burlington, MA
+$48K-$84K (Glassdoor est.)
+Actively Hiring
+21d
+---------------------------------
+Payfactors is changing the way companies attract and retain top talent though innovative compensation based tools and analytics.
+
+Payfactors is looking for a QA Engineer who is motivated, energetic, and detail-oriented. If you thrive by working in a fast-paced start-up environment utilizing the latest internet technologies, consider this opportunity as the next level in your professional development.
+
+Requirements/Skills:
+Bachelor’s degree required
+2+ years QA experience with enterprise SaaS applications
+Both manual and automated testing experience required
+Experience with load testing and stress testing
+Ability to analyze code commits for efficient/targeted testing (C#, JavaScript, etc.)
+Experience with the following would be ideal:
+Agile/SCRUM
+Issue/Project Tracking tools (such as JIRA)
+Application Performance Monitoring tools (such as New Relic)
+Selenium
+Performance/load testing
+Great verbal and written communication skills
+Ability to work independently and within a team environment
+Ability to prioritize and address multiple tasks in a dynamic work environment
+Boston-area based
+
+Primary Responsibilities:
+Building critical workflow automation
+Act as a SCRUM team member that is responsible for various types of testing and bug tracking in addition to helping the team adopt instincts that ensure quality throughout the process
+Work constructively with the Payfactors development team to solve tough challenges efficiently in an always changing environment.
+
+Perks:
+“Take it as you need it” Paid Time Off
+Work from home flexibility
+Half Day Summer Fridays
+Office socials, sports/concert tickets, swag + more
+
+PLEASE NOTE THIS JOB DESCRIPTION IS NOT DESIGNED TO COVER OR CONTAIN A COMPREHENSIVE LISTING OF ACTIVITIES, DUTIES OR RESPONSIBILITIES THAT ARE REQUIRED OF THE EMPLOYEE FOR THIS JOB. DUTIES, RESPONSIBILITIES AND ACTIVITIES MAY CHANGE AT ANY TIME WITH OR WITHOUT NOTICE.
+
+We are an Equal Opportunity Employer (Race/Color/Sex/Sexual Orientation/Gender Identity/Religion/National Origin/Disability/Vets) and are committed to building a team that reflects a broad range of experience and thought. We actively encourage applications from underrepresented groups in technology and business.
+
+Start your job application: click Apply Now
+****************************
+4.8
+Commonwealth Sciences
+Scientist I/II, Product Development
+Boston, MA
+21d
+---------------------------------
+Payfactors is changing the way companies attract and retain top talent though innovative compensation based tools and analytics.
+
+Payfactors is looking for a QA Engineer who is motivated, energetic, and detail-oriented. If you thrive by working in a fast-paced start-up environment utilizing the latest internet technologies, consider this opportunity as the next level in your professional development.
+
+Requirements/Skills:
+Bachelor’s degree required
+2+ years QA experience with enterprise SaaS applications
+Both manual and automated testing experience required
+Experience with load testing and stress testing
+Ability to analyze code commits for efficient/targeted testing (C#, JavaScript, etc.)
+Experience with the following would be ideal:
+Agile/SCRUM
+Issue/Project Tracking tools (such as JIRA)
+Application Performance Monitoring tools (such as New Relic)
+Selenium
+Performance/load testing
+Great verbal and written communication skills
+Ability to work independently and within a team environment
+Ability to prioritize and address multiple tasks in a dynamic work environment
+Boston-area based
+
+Primary Responsibilities:
+Building critical workflow automation
+Act as a SCRUM team member that is responsible for various types of testing and bug tracking in addition to helping the team adopt instincts that ensure quality throughout the process
+Work constructively with the Payfactors development team to solve tough challenges efficiently in an always changing environment.
+
+Perks:
+“Take it as you need it” Paid Time Off
+Work from home flexibility
+Half Day Summer Fridays
+Office socials, sports/concert tickets, swag + more
+
+PLEASE NOTE THIS JOB DESCRIPTION IS NOT DESIGNED TO COVER OR CONTAIN A COMPREHENSIVE LISTING OF ACTIVITIES, DUTIES OR RESPONSIBILITIES THAT ARE REQUIRED OF THE EMPLOYEE FOR THIS JOB. DUTIES, RESPONSIBILITIES AND ACTIVITIES MAY CHANGE AT ANY TIME WITH OR WITHOUT NOTICE.
+
+We are an Equal Opportunity Employer (Race/Color/Sex/Sexual Orientation/Gender Identity/Religion/National Origin/Disability/Vets) and are committed to building a team that reflects a broad range of experience and thought. We actively encourage applications from underrepresented groups in technology and business.
+
+Apply Now: click Apply Now
+****************************
+Replimune, Inc.
+Senior Associate Clinical Quality Assurance
+Woburn, MA
+Easy Apply
+9d
+---------------------------------
+Senior Associate, Clinical Quality Assurance – Woburn, MA*
+Replimune is pioneering a new generation of cancer treatments called oncolytic immunotherapies. These cleverly designed therapeutics combine multiple mechanisms of action, enhancing the ability of viruses to replicate in and kill cancer cells, generating a powerful patient-specific, systemic immune response.
+Summary of job description: *
+Reporting into the Manager, Clinical Quality Assurance, the Senior Associate, Clinical Quality Assurance will support and ensure that all systems and processes are compliant with good clinical practice (GCP) guidelines, standards, and regulations (FDA, MHRA, EMA, ICH). The Senior Associate, Clinical Quality Assurance will be responsible for assisting GCP QA and Quality Systems with Training, Document Control, tracking GCP elements of the Quality Management System (QMS), logistical support for Inspection Readiness activities, Project and clinical trial support, Vendor oversight; including audit support and audit closeout. The Senior Associate, Clinical Quality Assurance will ensure that all processes contributing to the performance of a clinical trial are established and conducted compliantly, troubleshoot escalated clinical trial issues, manage and maintain databases for the quality system, as well as prepare and assist in preparing annual reports and quality trending reports.
+Key responsibilities: *
+Assist in the development and implementation of GCP quality standards, policies, and procedures that comply with applicable standards, regulations and guidelines for GCP globally.
+Perform compliance review of clinical protocols, clinical study reports, investigator brochures and other clinical documentation
+Assist with coordination and logistics for pre- and post-inspection and audit activities, including training, and functional area readiness
+Assist with developing storyboards, along with functional areas and subject matter experts to be shared during audits for key processes and programs.
+Work cross functionally to build and maintain inspection readiness content to ensure quick access to materials in the event of an inspection or audit
+Represent CQA as single point of contact to assigned study teams including attending cross-functional study team meetings.
+Manager GCP vendor, clinical site and TMF audits related to assigned study teams including tracking all findings, responses, CAPAs, etc.
+Assist with implementation and maintenance of Electronic Document Management Systems. Assist with drafting processes and procedures to support EDMS.
+Perform a variety of tasks, duties and responsibilities as assigned from time to time
+Educational requirements: *
+B.S. degree in life sciences or equivalent
+Experience and skill requirement: *
+Minimum 2 years related experience in GCP (Clinical Research, investigator site or Quality)
+Strong interest in gaining technical knowledge of applicable GCP regulations and standards.
+Ability to independently research compliance trends and regulatory authority expectations
+Self-motivated with the ability to prioritize and identify critical compliance risks
+Experience with EDC and EDMS preferred
+Superb attention to detail and professional demeanor
+Excellent communication and organizational skills, along with problem solving and conflict resolution
+Proficient in MS Office (i.e. Word, Excel, PowerPoint), and Adobe Acrobat
+Travel up to 20%
+Job Type: Full-time
+
+Pay: From $95,000.00 per year
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Disability insurance
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+COVID-19 considerations:
+We are following strict COVID-19 protocol at all our locations
+
+Experience:
+GCP: 2 years (Required)
+Education:
+Bachelor's (Required)
+Work authorization:
+United States (Required)
+Company's website:
+https://replimune.com/
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19
+****************************
+Hoff's Bakery
+Human Resource Manager
+Malden, MA
+Hot
+Easy Apply
+20d
+---------------------------------
+HUMAN RESOURCE MANAGER*
+Hoff’s Bakery Malden MA 02148*
+Hoff’s Bakery, is a family owned wholesale high end desert bakery. We need a “hands on” Human Resources Manager to become an integral part of our management team. We are looking for someone who will ensure that our staff continues to strive for operational excellence while providing them with a welcoming and inclusive workplace. The right person needs to be bilingual (Spanish) and have the ability to quickly grasp the complexities of the position while identifying opportunities and strategies to support the bakery’s growth.
+Essential Duties include, but are not limited to: *
+Staffing:
+Responsible for recruiting all open positions to satisfy labor needs.
+Develop and execute an efficient onboarding and offboarding procedure for all Hoff’s employees.
+Maintain personnel files for all Hoff’s employees and temporary employees.
+Payroll:
+Oversee and maintain the payroll system.
+Process and review weekly payroll to ensure that all Hoff’s employees and temporary employees are being paid correctly.
+Develop controls and reports to ensure accuracy of information in the payroll system.
+Employee Relations:
+Work with Senior Management to develop and implement employee appreciation programs directly tied to companywide KPI’s in order to increase overall morale, output, and retention.
+Develop, implement, and manage procedures to ensure the smooth operations for employees’ attendance, uniform and key tracking.
+Work with leads, supervisors, and management to resolve any personnel issues regarding conflict, discipline, tardiness, etc.
+Safety:
+Develop and lead a safety committee to ensure compliance with all safety regulations including OSHA. In conjunction with QA Manager ensure that employees are following all food safety and food security policies, including crisis management.
+Prepare, review, and maintain all OSHA trainings, logs and registers.
+Implement a procedure for internal accident reports.
+Performance Reviews:
+Lead the execution of performance reviews for all staff. Develop a program that ensures effectiveness, compliance, and equity within the organization ensuring that the information in the job descriptions is accurate and representative of each position’s responsibilities.
+Oversee salary administration program to ensure wages are in line with industry averages and equitable across the organization.
+Training:
+Lead the development of an employee training program focused on career development. Help employees understand the path they can take from an entry level position up to a higher-level position. Work with leads, supervisors, and managers to understand the career path opportunities and what is necessary to get from one position to the next.
+Employee Benefits:
+Perform an annual review of all employee benefit options to ensure value and increase participation.
+In coordination with the Controller, review, analyze and manage the 401K program to increase participation.
+Manage the communication of all benefits to employees. Run open enrollment meetings to educate employees and increase participation. Ensure enrollment eligibility is tracked.
+Qualifications*:
+
+· Bachelor’s Degree Required, preferably with an emphasis in Human Resource Management
+
+· Minimum of 3-5 years Human Resources experience required
+
+· *Bilingual in English and Spanish REQUIRED*
+
+· Excellent communication skills, both verbal and written, required
+
+· Ability to multi-task effectively and efficiently, have acute attention to detail, and think critically
+
+· Self-motivated and an excellent team player
+
+· Excellent in time management, prioritizing workload and follow through
+
+Job Type: Full-time
+
+Pay: $34.00 - $40.00 per hour
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Experience:
+Human Resources: 3 years (Preferred)
+Education:
+Bachelor's (Required)
+Language:
+Spanish (Required)
+Work authorization:
+United States (Required)
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Company's website:
+www.hoffsbakery. com
+Benefit Conditions:
+Waiting period may apply
+Work Remotely:
+No
+****************************
+2
+Seres Therapeutics, Inc.
+Clinical Supply Manager
+Cambridge, MA
+Hot
+Easy Apply
+15d
+---------------------------------
+HUMAN RESOURCE MANAGER*
+Hoff’s Bakery Malden MA 02148*
+Hoff’s Bakery, is a family owned wholesale high end desert bakery. We need a “hands on” Human Resources Manager to become an integral part of our management team. We are looking for someone who will ensure that our staff continues to strive for operational excellence while providing them with a welcoming and inclusive workplace. The right person needs to be bilingual (Spanish) and have the ability to quickly grasp the complexities of the position while identifying opportunities and strategies to support the bakery’s growth.
+Essential Duties include, but are not limited to: *
+Staffing:
+Responsible for recruiting all open positions to satisfy labor needs.
+Develop and execute an efficient onboarding and offboarding procedure for all Hoff’s employees.
+Maintain personnel files for all Hoff’s employees and temporary employees.
+Payroll:
+Oversee and maintain the payroll system.
+Process and review weekly payroll to ensure that all Hoff’s employees and temporary employees are being paid correctly.
+Develop controls and reports to ensure accuracy of information in the payroll system.
+Employee Relations:
+Work with Senior Management to develop and implement employee appreciation programs directly tied to companywide KPI’s in order to increase overall morale, output, and retention.
+Develop, implement, and manage procedures to ensure the smooth operations for employees’ attendance, uniform and key tracking.
+Work with leads, supervisors, and management to resolve any personnel issues regarding conflict, discipline, tardiness, etc.
+Safety:
+Develop and lead a safety committee to ensure compliance with all safety regulations including OSHA. In conjunction with QA Manager ensure that employees are following all food safety and food security policies, including crisis management.
+Prepare, review, and maintain all OSHA trainings, logs and registers.
+Implement a procedure for internal accident reports.
+Performance Reviews:
+Lead the execution of performance reviews for all staff. Develop a program that ensures effectiveness, compliance, and equity within the organization ensuring that the information in the job descriptions is accurate and representative of each position’s responsibilities.
+Oversee salary administration program to ensure wages are in line with industry averages and equitable across the organization.
+Training:
+Lead the development of an employee training program focused on career development. Help employees understand the path they can take from an entry level position up to a higher-level position. Work with leads, supervisors, and managers to understand the career path opportunities and what is necessary to get from one position to the next.
+Employee Benefits:
+Perform an annual review of all employee benefit options to ensure value and increase participation.
+In coordination with the Controller, review, analyze and manage the 401K program to increase participation.
+Manage the communication of all benefits to employees. Run open enrollment meetings to educate employees and increase participation. Ensure enrollment eligibility is tracked.
+Qualifications*:
+
+· Bachelor’s Degree Required, preferably with an emphasis in Human Resource Management
+
+· Minimum of 3-5 years Human Resources experience required
+
+· *Bilingual in English and Spanish REQUIRED*
+
+· Excellent communication skills, both verbal and written, required
+
+· Ability to multi-task effectively and efficiently, have acute attention to detail, and think critically
+
+· Self-motivated and an excellent team player
+
+· Excellent in time management, prioritizing workload and follow through
+
+Job Type: Full-time
+
+Pay: $34.00 - $40.00 per hour
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Experience:
+Human Resources: 3 years (Preferred)
+Education:
+Bachelor's (Required)
+Language:
+Spanish (Required)
+Work authorization:
+United States (Required)
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Company's website:
+www.hoffsbakery. com
+Benefit Conditions:
+Waiting period may apply
+Work Remotely:
+No
+****************************
+3.8
+BSC Group, Inc.
+Group Manager of Transportation Engineering Services
+Boston, MA
+$57K-$88K (Glassdoor est.)
+Hot
+Easy Apply
+20d
+---------------------------------
+BSC is seeking an experienced and energetic transportation engineering professional for the role of *Group Manager of Transportation Engineering Services*. The Group Manager of Transportation Engineering Services will lead the highway, traffic and structural engineering disciplines within our transportation services. The Group provides structural, roadway, and civil/highway services to transportation agencies, municipalities and private clients across New England. This position is responsible for developing and implementing strategies to grow the business and continue to diversify the client base. *This position can be based in any of our Massachusetts offices*.
+
+This is a great opportunity for someone who wants to be part of the leadership team in a growing company. You will join a collaborative, interdisciplinary team with an established practice, and be responsible for managing relationships with existing clients, pursuing new opportunities, and strengthening BSC’s market share in New England. The successful candidate will be responsible for the delivery of projects, business strategy, client development, staff development, and operational oversight.
+RESPONSIBILITIES*
+· Oversee the highway, traffic and structural engineering disciplines within the firm’s Massachusetts, Connecticut and New Hampshire offices
+
+· Manage the discipline leads, ensure adherence to project budgets and schedules, guide the design of projects, ensure QA/QC is performed on all deliverables, and monitor workload and staff utilization
+
+· In conjunction with the Transportation, Public and Private Market Sector Leaders, assist with developing and implementing strategies to grow the firm’s market share and diversify the client base
+
+· Prepare annual revenue forecasts and budgets, monitor performance of the transportation group, and secure projects that align with the interests and skill sets of the group
+
+· Actively participate in industry leadership roles and assist in organizing BSC’s participation at transportation industry events
+
+· Mentor staff with technical and project management competencies; inspire and enable others to succeed
+
+· Guide staff to proactively engage, manage and grow relationships with clients, to secure additional projects and assignments and assist with the growth of the company
+
+· Proactively facilitate collaboration and workshare with other offices across the firm
+
+· Expand transportation services into new markets, including rail
+REQUIREMENTS*
+A diverse project management background and an understanding of all aspects of project development, design standards and policies for a variety of transportation clients such as MassDOT, MBTA, MassPort and locally administered federal aid transportation projects.
+· Exceptional leadership, interpersonal, communication, and team-building skills
+
+· Proven success in developing new clients and expanding into new transportation markets
+
+· Strategic thinking to envision and deliver a growing transportation practice
+
+· Strong verbal and written communication skills with the ability to be diplomatic
+
+· Knowledge of local, regional, and potentially national transportation initiatives and capital funding programs
+
+· Ability to recruit additional highway, traffic and structural and rail/transit talent
+EDUCATION AND EXPERIENCE*
+· Bachelor’s Degree in Civil Engineering. Master’s Degree is preferred
+
+· Massachusetts Professional Engineer registration. Connecticut and New Hampshire registrations also desirable
+
+· Minimum of 15 – 25 years Transportation engineering experience
+
+BSC offers excellent benefits including medical, dental, 401(k), group life insurance, potential for ownership, as well as a competitive salary.
+
+BSC is proud to be an AA/EEO employer. Women, minorities, veterans and persons with disabilities are encouraged to apply.
+About this Company*
+BSC Group is a leader in providing integrated planning and engineering solutions to public and private sector clients for land development, transportation, and energy projects throughout New England. Founded in 1965, the firm offers the services of 150 professionals operating from six offices in Massachusetts, New Hampshire and Connecticut.
+
+Our consulting staff represents the best talents in planning, engineering, regulatory permitting and ecological science, landscape architecture, land surveying, and spatial information systems. We truly believe our greatest strength lies in our collaborative approach to projects, involving all members of our multidisciplinary staff as necessary, leading to better and more creative solutions throughout the life of the project. We also encourage the involvement of our clients in every step of the process, resulting in high quality planning and design that is technologically and environmentally sound, economically feasible, and aesthetically pleasing.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+401(k) Matching
+Dental Insurance
+Disability Insurance
+Employee Assistance Program
+Flexible Schedule
+Flexible Spending Account
+Health Insurance
+Life Insurance
+Paid Time Off
+Professional Development Assistance
+Tuition Reimbursement
+Schedule:
+Monday to Friday
+Work Location:
+One location
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Autonomous/Independent -- enjoys working with little direction
+Innovative -- prefers working in unconventional ways or on tasks that require creativity
+High stress tolerance -- thrives in a high-pressure environment
+Company's website:
+www.bscgroup.com
+Company's Facebook page:
+https://www.facebook.com/BSCGroupInc/
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19
+****************************
+2.4
+High Tech Turning
+Manufacturing Quality Engineer
+Watertown, MA
+Easy Apply
+20d
+---------------------------------
+Overview*
+\*\*LOCAL CANDIDATES ONLY\*\*
+
+Data-minded Quality Engineer for Modern CNC Machine Shop. We are a 40-person company operating out of Watertown, MA. The company was founded in 1985 and we have many employees that have been here over 20 years with some over 30.
+
+We produce high-volume, high-precision machined components for medical devices.
+
+• We made over 5 million CNC machined parts in 2019.
+• Many of our tolerances are as tight as +/-.0002”
+
+Join us and help drive excellence as we help our customers develop and build the next generation of medical devices.
+
+Relaxed, team-based work environment. Flexible hours for good work/life balance. Excellent health plan with deductible paid 100% by the company and doctor visit co-pay reimbursement as well, profit sharing / 401k plan and other benefits.
+Responsibilities*
+We can’t measure all of the parts so we need your help to use statistics to demonstrate control.
+
+• Help us launch SPC data collection/analytic software “High QA.”
+• Act as “system administrator” for the SPC database
+• Help the quality team to develop appropriate inspection plans
+• Help roll out data entry techniques to the shop floor.
+• Help write and update procedures which describe the use of SPC controls.
+• Train operators to use the software to enter the measurement data they collect.
+• Analyze output to assure all parts are in compliance with customer requirements.
+Requirements*
+• Bachelor’s degree in Engineering or similar field or equivalent work experience.
+• 2-10 years of experience in a manufacturing field.
+• Ability to read and understand mechanical technical drawings.
+• Ability to use standard precision measuring equipment
+• Familiarity with Minitab or similar analysis package is a plus
+• Machine shop experience a major plus.
+• Experience with CMM or vision-based inspection systems a major plus
+• Familiar with MS windows, and MS office, especially MS Excel.
+What you need to succeed*
+• Team player with easy-going attitude. Works well both independently and with others.
+• Good with numbers and computers. Learns new things easily. Not afraid of challenges
+• Hard worker who learns from mistakes rather than getting flustered. Consistent performer.
+
+Job Type: Full-time
+
+Pay: $0.00 per hour
+
+Benefits:
+401(k)
+Employee Discount
+Flexible Schedule
+Health Insurance
+Paid Time Off
+Referral Program
+Retirement Plan
+Schedule:
+Day shift
+Monday to Friday
+Overtime
+Supplemental Pay:
+Bonus Pay
+Experience:
+Manufacturing: 2 years (Preferred)
+Manufacturing Engineering: 2 years (Preferred)
+Education:
+Associate (Preferred)
+Location:
+Watertown, MA 02472 (Required)
+Application Question:
+What is your commute to Watertown, MA?
+This Company Describes Its Culture as:
+Detail-oriented -- quality and precision-focused
+Innovative -- innovative and risk-taking
+People-oriented -- supportive and fairness-focused
+Benefit Conditions:
+Waiting period may apply
+Work Remotely:
+No
+****************************
+4.8
+Mary Immaculate Health/Care Services
+RN - Director of Quality Assurance & Infection Control
+Lawrence, MA
+20d
+---------------------------------
+MI Nursing/Restorative Center, a 231 bed not-for-profit skilled nursing and rehabilitation facility is currently seeking a RN / Director of Quality Assurance and Infection Control.
+
+POSITION SUMMARY
+The RN / Director of Quality Assurance and Infection Control is responsible for the design, implementation, and direction of the facility quality assurance performance improvement program, the infection control program & the risk management program. Works as a member of our clinical leadership team (with Director of Nursing, Assistant Director of Nursing and Director of Education).
+
+QUALIFICATIONS
+Registered Nurse (RN) with substantial nursing leadership experience required. Knowledge and understanding of OBRA, CMS, and DPH regulations required. Experience in Long Term Care preferred. Bachelors Degree or Masters Degree in Nursing a plus. C.I.C. Certification preferred but not required.
+
+RESPONSIBILITIES include the following. Other duties may be assigned.
+
+Directs the facility’s quality management process, prepares an annual plan and chairs the Quality Improvement Committee and coordinates the Quality Assurance Performance Improvement Committee (Board). Insures that Committee minutes are maintained.
+Trains and educates all facility employees about the principles of quality, infection control, and HIPAA compliance.
+Works closely with the Director of Nursing in ensuring the facility’s compliance with all applicable regulatory agencies including DPH, DPW, OSHA, and CMS.
+Attends all departmental, Board of Directors, and Covenant Health meetings as directed.
+Prepares quarterly reports on quality monitoring for the Quality Improvement Committee and the Quality Assurance Committee (Board).
+Completes quarterly investigations on selected residents that trigger from the MDS Quality Measure/Indicator Report and works with Nurse Managers and MDS Coordinator to educate about findings and formulate corrective interventions as indicated.
+In conjunction with nursing administration, identifies clinical and quality needs of the residents at MINRC, Inc. Implements audits, develops monitors and/or works with the Staff Development Coordinator to institute training and education to correct deficiencies.
+Directs the facilities Infection Control Program. Monitors that infection control measures are in place and up to date including the facility-wide placement of personal protective equipment.
+Implements plans for the prevention/minimization of infectious outbreaks.
+Directs the development and updating of the Continuity of Operations plan (COOP).
+Monitors facility infections, over sees lab preparation of quarterly reports for the Quality Improvement Committee and Quality Assurance Committee and maintains infection control data and records.
+Insures facility compliance with infection control procedures and prepares quarterly surveillance rounds reports for the Quality Improvement Committee.
+Investigates all blood borne pathogen exposure incidents, maintains records and makes recommendations to the Quality Improvement Committee and Quality Assurance Committee as indicated.
+Manages the facility’s Medical Device Reporting program, investigates incidents, maintains records, makes recommendations to the Administrator and prepares reports for the FDA as necessary.
+Assumes accountability and responsibility for staying current with professional development.
+Manages time: must be able to organize and manage multiple priorities.
+Abides by the standards of conduct which is the basis of the Organizational Integrity Program.
+Ensures facility compliance with health information privacy (HIPAA) related laws and regulations.
+
+ABOUT US
+Our Nursing/Restorative Center is part of one of New England’s largest and most advanced healthcare campuses for the care of elders known as Mary Immaculate Health/Care Services. What distinguishes Mary Immaculate is its continuum of care designed to meet a broad spectrum of needs. Today, our services include nursing/restorative center care, independent and supportive housing, adult day health, assisted living and chair car transportation services. Our roots are honored and our Catholic tradition is continued through our membership in Covenant Health, a Catholic multi-institutional healthcare and eldercare organization serving New England
+
+BENEFITS
+
+Competitive salary and benefits including health, dental, life, disability, generous earned time off program, voluntary 403b retirement plan with employer match, flexible spending account, tuition reimbursement, employee assistance program.
+
+OUR MISSION AND VALUES
+
+We are a Catholic health ministry, providing healing and care for the whole person, in service to all in our communities. We commit to honor these core values:
+
+Compassion
+Integrity
+Collaboration
+Excellence
+
+We are an equal opportunity, affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, disability status, gender, sexual orientation, ancestry, protected veteran status, national origin, genetic information or any legally protected status.
+
+Location: Mary Immaculate Health/Care Services · Quality Manager
+Schedule: Full Time, Days, 8-5
+****************************
+3.8
+Sloan
+Associate Sourcing Manager
+Andover, MA
+$40K-$73K (Glassdoor est.)
+Easy Apply
+8d
+---------------------------------
+Sloan* is the world’s leading manufacturer of commercial plumbing systems and has been in operation since 1906. We are at the forefront of the green building movement and provide sustainable restroom solutions. We manufacture water-efficient products including flush valves, electronic faucets, soap dispensing and sink systems along with vitreous china fixtures for commercial, industrial and institutional markets worldwide.
+The Associate Commodity Manager is responsible for the development and management of the supply base for commodity(s) assigned, used to build products and maintain facilities. This position is responsible for optimizing costs, quality and delivery in the support of Supply Chain's customers.
+Job Duties and Responsibilities*
+Manages assigned commodities as required through approved sources of supply assuring that the following criteria are met:
+Competitive pricing
+On-time delivery (to required support)
+All engineering and technical criteria is negotiated based on program requirements
+Blanket and/or long term agreements developed
+Purchasing policies and procedures are adhered to
+Adherence to customer requirements when applicable per contract
+Develop and manage a Supply Base that builds long term strategic relationships with key supply partners that provides Sloan with the best competitive advantage.
+Analyze, suggest and implement innovative supply opportunities and strategies
+Develop system to define expectations and measure supplier performance on quality, logistics, technology, and cost. Continuously monitor and evaluate suppliers.
+Develop commodity with all relevant information on the market, products and suppliers in order to support procurement and engineering.
+Maintain market awareness as to changes in prices and trends in supply/demand.
+Identify and qualify new suppliers as needed for new development programs, and work with Engineering and Quality to ensure adherence to Sloan requirements.
+Interface with Production, Planning, QA, Finance, Sales, and Engineering to achieve the smooth flow of goods and services to Sloan in order to maintain committed schedules to customers.
+Assist in Contract Management: participate in negotiations and draft long term agreements
+Oversee vendor responsibilities outlined in the contract and statement of work.
+Maintain aggressive follow-up process to ensure quality and schedule compliance.
+Financial/quantitative analysis: Understand and develop financial rationale for "make vs. buy" decisions. Establish and maintain cost reduction and process improvement programs.
+Relationship management: understand vendor business and internal processes, co-develop initiatives to improve communication and transactions, be an advocate of the vendor internally, and maintain quarterly business reviews with key providers.
+Maintain technical expertise in managed commodity processes and understand and continuously improve supplier value stream
+Qualifications*
+Bachelor’s degree
+3-5 years buying and/or vendor management experience
+General knowledge of manufacturing, basic knowledge of blueprint reading
+Knowledge of commodity specific, processing and all related information necessary to communicate effectively internally and externally
+Familiarity with commodities to be purchased, and market conditions
+Knowledge of MRP systems as applicable to planning and purchasing, SAP prefered
+Knowledge of purchasing policies and procedures and corporate national agreements
+Knowledge of the mechanics of blanket orders and long term agreements
+Flexibility and creativity in developing new methodology and ideas to achieve cost reduction and/or efficiencies in operation
+Contract negotiation skills
+E-Sourcing
+Value-Engineering experience
+Limited but Familiarity with Low-cost region sourcing experience
+Excellent advanced skills in Excel
+Excellent communications skills
+Preferred Qualifications*
+Experience Purchasing Castings(Zinc or Brass) or Experience with EMS suppliers, Low Cost Country Sourcing
+We offer a highly competitive compensation and benefits package, including: *
+Medical, dental, vision, Rx coverage for employee plus eligible dependents
+Life and AD & D insurance, dependent life insurance, long term disability, and HSA, FSA
+Employer matching 401K, PTO, holidays, EAP, wellness programs, on-site medical staff and fitness center
+_We Are Proud Partners With the Chicago Cubs: _*
+We are a Legacy Partner of the Chicago Cubs and we are proud to be the organization’s official water efficiency partner! Through this relationship, which includes the naming rights to Sloan Park, the Cubs’ Spring Training facility in Mesa, Arizona, we have had the opportunity to promote our brand and continue our water conservation efforts in the city of Chicago and around the world
+_JOIN AN INDUSTRY LEADER!_*
+For additional company information please visit our website at www.sloan.com.
+
+We Are An Equal Opportunity Employer.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Disability insurance
+Employee assistance program
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Referral program
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Work Remotely:
+No
+****************************
+4.2
+Sonos
+QA Engineer
+Boston, MA
+$47K-$82K (Glassdoor est.)
+Actively Hiring
+8d
+---------------------------------
+At Sonos we want to create the ultimate listening experience for our customers and know that it starts by listening to each other. As part of the Sonos team, you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their lives.
+
+Sonos has mountains of data, but that data is only useful if it is collected, stored and presented accurately. As a Test Engineer on our Enterprise Supply Chain Systems & Data Team, you will be responsible for performing data analysis, discovering data anomalies, generating test data, and implementing data quality improvements while participating in an Agile environment. You will be working closely with end users, ETL developers, Data Architects, Report Developers and functional teams.
+
+In addition to being an accomplished tester, the perfect candidate will also be an excellent teacher, and will help the entire team test better. You will be responsible for communicating risks, helping your fellow developers find inconsistencies in the code, and ultimately insure our commitments are delivered completely.
+
+What You'll Do
+Support the design and development of a test data strategy to perform environment, data quality, and system integration validation; including database/backend testing and ETL.
+Help define the high level testing strategy for Sonos’ Data Team (goals, documentation, definition of success, coverage mapping, etc.).
+Contribute to the creation of a scalable automation framework that exercises all appropriate parts of the data chain with a focus on configurability, low complexity, and test case reuse.
+Define and document testing best practices for the team. Mentor team members on software testing techniques and technology. Perform peer test plan reviews.
+Demonstrate flexibility as needed. Participate in manual testing, firefighting, and troubleshooting when required.
+What You'll need
+
+Basic Qualifications:
+Ideal candidate should have 2+ years of QA testing experience with strong SQL development background, including hands-on experience in ETL testing and validation of a Data Warehouse containing multiple data sources.
+Proficient in designing SQL to validate ETL.
+Experience in writing complex SQL scripts for data validation and python scripts for creating test automation.
+Experience in writing test cases in a test driven development environment, particularly in python.
+Demonstrated experience in test data preparation.
+Develop ETL test scripts based on technical specifications/Data design documents and source to target mappings.
+Validating target tables with record counts, duplicate data, reconcile counts with source and data type.
+Understanding of REST based API testing and JSON
+
+Preferred Qualifications:
+Experience testing distributed systems
+Experience with ETL tools. Knowledge in SSIS is preferred.
+Working in finance,sales and manufacturing data.
+Demonstrated experience with understanding the business requirements and test cases to generate large volumes of test data to support the requirements and test case.
+Passion and ability for solving intractable problems. Superior critical thinking skills.
+Excellent analytical and troubleshooting skills.
+Excellent verbal and written communications skills.
+Experience working in a Scrum/Agile environment.
+To apply to this job, click Apply Now
+****************************
+3.5
+Clinedge
+Web and Mobile Development Manager
+Quincy, MA
+$41K-$92K (Glassdoor est.)
+Easy Apply
+20d
+---------------------------------
+Position: Web and Mobile Development Manager*
+Reports to: CIO*
+Type: Full Time*
+\*\*\*Only candidates who submit a link to a portfolio will be considered\*\*\*
+
+Position Overview:
+
+The Web and Mobile Development Manager will execute, support, and manage all client and internal web and mobile projects as well as platforms. This individual is responsible for managing and executing the entire process for all web and mobile development projects including design direction, security, user experience/functionality, search engine optimization, development, SDLC, compliance, and hosting management. This individual must possess a full understanding of both front-end and back-end development and must be able to juggle a variety of projects concurrently (both large and small) while meeting tight deadlines. The candidate should also possess an understanding of the functions of web and mobile in the context of marketing, lead generation, layout design, user experience, ease of navigation, readability, and accessibility.
+
+This individual will be responsible for managing existing as well as new web and mobile projects with internal teams and with clients while also maintaining optimal communication of timelines, deadlines, and project deliverables. In addition, this individual will be responsible for executing projects autonomously, with other marketing teams, off-shore development teams, project managers and designers. The ideal candidate would have previous direct client experience.
+
+Position responsibilities include, but are not limited to:
+Lead projects through design, development, security assessment and management
+Continually analyze and perform SEO assessments of production web and mobile effectiveness
+Provide monthly analysis of health/performance/functionality web and mobile platforms and recommendations when needed
+Manage off-shore development teams
+Ensuring security, high-performance and availability, manage all technical aspects of the CMS and Web Server
+Communicate with senior team members, updates, issues and feedback on all projects
+Manage Google Analytics installation and tracking for all projects
+Establish and ensure appropriate QA/QC and testing processes for web and mobile development and platforms
+Client:
+Establish, lead and guide the client web and/or mobile’s architecture, security, usability, and functionality
+Provide technical documentation and system design documents for all work
+Help formulate an effective, responsive design for a client project and turn it into a working themes and possible plugins
+Conceptualize and execute deliverables for client projects, including but not limited to:
+Executing development, security updates and enhancements
+Ensuring adherence to our web and mobile SDLC
+Designing web and mobile mockups and executing all required development
+Integration of systems such as Salesforce, forms, and other applications
+Designing and building landing pages and updating themes for quick turnaround
+Using plugins and web technology to translate web and mobile content to support global projects
+Managing client projects hosting, security, domains, archiving and testing
+Working with multiple project managers and marketing associates to understand clients’ needs, associated timelines, and processes on a variety of clinical trial web and mobile projects
+Communicate directly with clients and or project team on: project updates, timelines and milestones as well as analytics, optimization efforts, and troubleshooting when requested.
+Provide detailed performance and usage metrics for client projects
+Ensuring the performance and availability of the web and mobile platforms
+Internal:
+Work with the internal marketing team to manage and maintain the internal company website and mobile and mobiles (Craft and Wordpress CMS)
+Support efforts related to enhancing web integrations with our Salesforce platform
+Work with internal marketing team on website and mobile and mobile integrations and functions within Pardot MAP
+Establish a standard company SDLC for web and mobile development
+Follow established company standard operating procedures (SOPs) and guidance documents. Develop, edit and review process documentation and guidelines when needed
+Perform research on new trends, competitors etc. in order to advocate for further efficiencies and advancements
+Provide trainings for mid and junior staff
+Partner with compliance and technology teams for continual improvement in platform security, data security and global privacy
+Skills & Qualifications:
+
+Required:
+Bachelor’s Degree in Computer Science or related field from a 4-year college, or university
+4-5 years professional working experience in similar web development role
+Ability and desire to learn new skills and for continued self-improvement
+Creative thinker and problem-solver
+General software design theory
+Experience developing code that is reusable, scalable, and optimized for speed
+Web and mobile development proficiency including HTML5, CSS3, PHP, WordPress and Craft CMS
+Proficiency in CMS associated plugins
+Ability to troubleshoot, diagnose and resolve bugs and issues. Monitor and report website and mobile and mobile performance issues and coordinate with the training and design team to prioritize security and consistent quality standards.
+Ensure security by monitoring common data leakage points such as logging, app background, caching, browser cookie objects and HTML5 data storage
+In-depth knowledge of industry best practices in interactive design, information design and usability
+Demonstrated ability to organize complex content for ease of navigation, readability, and accessibility
+Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers
+Ability to convert comprehensive layout and wireframes into working HTML pages
+Proficient understanding of code versioning tools (such as Git)
+Ability to utilize tools such as Google Analytics, Tag manager, and other tracking mechanisms to assist with lead tracking and analytics
+Proficiency using Adobe creative suite applications
+Ability to independently manage simultaneous projects in an organized manner
+Excellent communication skills, both written and verbal, with the ability to understand and effectively deliver projects for clients
+\*
+
+Preferred:
+Knowledge of how to interact with RESTful APIs and formats (JSON, XML)
+Understanding of global data, security compliance and privacy laws
+Familiarity with clinical research or medical industry is ideal, but not required
+Experience working with Salesforce, Pardot or similar products
+An understanding of disabilities including strength-based focus and people-first language through UI/UX
+Agency experience is preferred but not required
+To apply, please send a cover letter containing a link to an online portfolio showing examples of your work. Only candidates who submit an online portfolio will be considered.
+\*
+
+Job Type: Full-time
+
+Job Type: Full-time
+
+Pay: $0.00 per hour
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Professional development assistance
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Commission pay
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Autonomous/Independent -- enjoys working with little direction
+Innovative -- prefers working in unconventional ways or on tasks that require creativity
+Work Remotely:
+Temporarily due to COVID-19
+****************************
+4.4
+SAGE Therapeutics
+Associate Director, QA Compliance
+Cambridge, MA
+$134K-$246K (Glassdoor est.)
+Hiring Surge
+20d
+---------------------------------
+General Scope and Summary
+
+SAGE Therapeutics is searching for a resourceful, integrative thinker for an important role that is responsible for Quality Risk Management, Internal Audit Program and Inspection Readiness. In this position, you will be an integral contributor to Sage’s continues improvement efforts, interfacing with both internal and external stakeholders.
+
+Roles and Responsibilities
+
+Manage Quality Risk Management and the Internal Audits program across GXP functions.
+Work closely with department heads to identify and mitigate risk for the organization. Facilitate risk assessments and maintain the risk register.
+Drive Continues Improvement initiatives.
+Manage inspection readiness efforts across SAGE working closely with subject matter experts in GCP, GVP, GLP and GMP areas.
+Support regulatory inspections and the drafting of responses.
+Enhance policies and procedures and ensure compliance with applicable regulations.
+Lead the Quality Management Review process.
+Implement key performance quality metrics and maintain a state of compliance.
+
+Experience, Education and Specialized Knowledge and Skills
+
+Must thrive working in a fast-paced, innovative environment while remaining flexible, proactive, resourceful and efficient. Excellent interpersonal skills, ability to develop important relationships with key stakeholders, good conflict management and negotiation skills, ability to analyze complex issues to develop relevant and realistic plans, and program recommendations. Demonstrated ability to translate strategy into action; excellent analytical skills and an ability to communicate complex issues in a simple way and to orchestrate plans to resolve issues and mitigate risks.
+
+Basic Qualifications
+
+B.S. Degree with 10+ years related experience in the pharmaceutical or biopharmaceutical industry.
+
+Preferred Qualifications
+
+Sounds knowledge of GXPs regulations and industry best practices.
+Excellent project management skills, teamwork, and collaboration skills.
+Experience with all phases of the Product Lifecycle (early stage clinical through commercial)
+Proven track record of implementing data integrity controls.
+Experience with implementation of phase appropriate Quality Systems.
+Demonstrated continues improvement experience (six sigma certification preferred).
+Embrace our core values: Put People First, Do Big, Be Accountable, Grow through Learning and Change, and Work Fun.
+Excitement about the vision and mission of Sage.
+Employment Type:
+Employee
+
+Job ID:
+R000482
+
+#Biotechnology #Careers #ThisIsSage
+
+All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other factors prohibited by law.
+
+EEO IS THE LAW
+
+EEO IS THE LAW - POSTER SUPPLEMENT
+
+We value our relationships with professional recruitment firms. To protect the interests of all parties, and given the large volume of inquiries received from third-party placement agencies, we are not able to respond to all agency inquiries. We do not accept unsolicited resumes from any source other than directly from candidates for current or future positions. Submission of unsolicited resumes in advance of a signed agreement between our company and a placement agency does not create an implied obligation and, if an unsolicited candidate represented by a placement agency is hired, we are not obligated to pay a fee. Only approved recruitment firms will be allowed to provide services to Sage Therapeutics, Inc.
+****************************
+2.6
+AMRI
+Quality Assurance Specialist III
+Burlington, MA
+$46K-$90K (Glassdoor est.)
+Hiring Surge
+20d
+---------------------------------
+AMRI provides global contract research and manufacturing services to the pharmaceutical and biotechnology industries.
+
+The Quality Assurance Specialist III is responsible for maintaining Quality databases and providing on-the-floor QA presence and oversight to the manufacturing operation. The QA Specialist’s role will include identifying compliance risks in the operation prior to and during execution, avoiding deviation whenever possible as well as managing immediate corrective action such that a) adherence to cGMP’s and internal procedures/policies is maintained, b) appropriate immediate corrective action is implemented and effectively documented in order to provide traceability and substantiation of any claims to be made in the investigation. This position primarily works in the cGMP production areas to manage adherence to the quality system and to initiate and assist in the initiation and resolution of deviations.
+
+Join our talented workforce, where a commitment to excellence and a customer focused attitude is everything. We pursue excellence because our work has the power to improve patients’ lives with the pharmaceuticals we develop and manufacture.
+
+Responsibilities
+
+• Responsible for working cross-functionally with Manufacturing, Process Engineering, Facility, Inspection and Project Management on Quality Assurance (QA) activities such as the following: On-the-floor support and oversight of manufacturing operations, Executed/Unexecuted Batch Record Review, Executed/Unexecuted Validation/Facility Protocols/Reports, Reviewing Change Controls, Reviewing Facility Work Orders prior to filing
+• The QA Specialist III works in coordination with the QA Management to ensure client timelines are on schedule and attainable
+• Assist in responsibility for the AMRI compilation of documentation, systems and controls to ensure inspection-ready quality systems (ISO, FDA, QP, EMEA) for domestic and international inspections and registrations
+• In conjunction with QA management, coordinate day to day activities on an as needed basis and provide support to QA specialists
+• Educate and train manufacturing/process engineering personnel to execute production in full accordance with cGMP’s and AMRI’s quality system to ensure real-time compliance
+• Represent AMRI Quality Assurance when managing issues that require immediate corrective action. Ensure such action taken is appropriate and appropriately documented
+• Reviews Un-executed /Executed batch records and quality control testing for compliance with internal SOPs and specifications
+• Monitor Operations personnel for adherence to SOP’s. Report back to Manager of QA as well as area functional management as to personnel performance, highlighting those areas and individuals in need of improvement
+• Reviews and approves Document Change Notifications for SOPs, test methods, raw material specifications, protocols (stability, validation, etc.) and batch records
+• Reviews and approves SOPs, test methods, raw material specifications, protocols and executed validation documentation
+• Authors or revises SOPs
+• Performs manufacturing area and labeling clearances as well as inspection of material
+• Reviews and approves CAPAs, Deviations, Change Controls, Equipment Excursion Reports
+• Assists in performing investigations
+• Performs internal audits and weekly walkthroughs
+• External audits for Supplier qualification
+• May respond or manage responses to clients regarding manufacturing and/or documentation issues
+• Assists in developing and delivering training
+• Assists tracking and follow-up on Deviations, Change Controls, Investigations, and CAPAs
+• Develops and/or maintains Quality System metrics for Management Review
+• Provides on the floor support to manufacturing operations
+• Perform QA visual inspection activities associated with clinical and commercial drug product
+• Participate in regulatory and client audits
+
+• Bachelor’s Degree in the Life Science field; alternate fields of study may be considered in combination with significant Aseptic/Microbiological industry experience
+• 6+ years’ experience of pharmaceutical/biotechnology or medical device industry experience; Minimum of 5 years’ experience in Quality Assurance
+• Excellent written and verbal presentation and communication skills
+• Strong problem solving skills, with the ability to resolve conflict
+• Ability to effectively present information to management and/or peers
+• Comfortable working independently in combination with individuals in other departments across the organization
+
+All interested applicants must apply online. AMRI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+Start your job application: click Apply Now
+****************************
+4
+Snowbound Software Corporation
+Sr. Software Engineer in Test
+Waltham, MA
+$65K-$105K (Glassdoor est.)
+20d
+---------------------------------
+You may not realize it, but you probably interact with us several times every day. We help deliver your mail, process your insurance forms and claims, expedite your banking transactions, securely distribute your patient information to healthcare professionals, and help ensure that packages shipped around the globe arrive at the correct destinations on time.
+
+Since 1996, our powerful solutions for document viewing and conversion have provided the means to keep information flowing smoothly and securely in the digital age. Using our technology helps organizations better organize and utilize their information, to optimize workflow, and best serve their customers and their employees.
+
+Snowbound Software has an exciting opportunity in a dynamic, exciting software engineering company with world-wide customers and partners. Our products include leading edge imaging tools and document viewing technology. Our focus on our people, solutions, and our customers allows us to lead our industry.
+Responsibilities
+
+Work with QA, IT, RE, and Software Engineers to improve overall test framework and infrastructure
+
+Develop scalable and reliable automated test frameworks and tools
+
+Develop internal tools to help automate smoke testing, functional testcase and regression testing
+
+Image processing to automate verification of the regression test
+
+Work under limited supervision to driven results
+
+Preferred Qualifications
+
+BS in Computer Science or related field
+
+3+ years of experience with development and/or test automation
+
+Proficient with Java and scripting language
+
+Experience with building test frameworks, test tools, and CI/CD tools
+
+Familiarity with Git, Jenkins, Docker, Maven
+
+To apply, please email your resume and a brief cover letter to jobs-qa@snowbound.com.
+****************************
+3.1
+Organogenesis
+QA Disposition Specialist II
+Canton, MA
+$46K-$91K (Glassdoor est.)
+Actively Hiring
+16d
+---------------------------------
+QA Disposition Specialist II
+
+
+Canton, MA
+
+
+Job Req code:
+712
+
+Category:
+Quality Systems
+
+We have unique opportunities and are always looking for exceptional talent. Join a company where you will have an opportunity to grow professionally and personally and give strength to others. Empowering Healing.
+
+Organogenesis corporate headquarters is located in Canton, Massachusetts, and we have an additional site in Norwood, Massachusetts. Our Canton location is the manufacturing site for PuraPly® AM (which heals acute and chronic wounds), and Apligraf® (for the treatment of surgical wounds). Our Norwood location manufactures ReNu® (offering regenerative and anti-inflammatory properties to create an environment that reduces pain) and NuCel® (which provides an enhanced environment for tissue growth, repair and healing). Canton is also the location for Customer Service, Reimbursement and other corporate teams, supporting our full range of products.
+
+The QA Disposition Specialist II performs quality activities in support disposition of multiple product releases. The position has a great deal of interaction with many internal departments, including Apligraf Production, FortaFlex Production, Cell Culture, Facilities, Validation, Calibration, Materials, Quality Control, and Materials Management. The position may also have interactions with external entities including contractors, suppliers, and customers. The QA Specialist performs a wide variety of activities to ensure compliance with applicable regulatory.
+
+JOB RESPONSIBILITIES
+
+• Review batch records to support new and existing products.
+• Assist in all activities associated with transferring final product for shipment
+• Review internal document for accuracy and compliance with GMP’s
+• Participate in cross-functional teams to support department and company goals
+• Perform additional QA functions as required
+• Support special project team activities, as needed.
+
+Requirements
+
+
+2-4 years of GMP experience in a Medical Device/Biotechnology industry. A Bachelor’s degree with demonstrated knowledge of scientific principles in a GMP/GLP regulated environment is desirable
+To apply to this job, click Apply Now
+****************************
+Newton Wellesley Dermatology Associates
+MOHS Surgery RN (2+ yrs surgical experience req)
+Wellesley, MA
+Easy Apply
+20d
+---------------------------------
+QA Disposition Specialist II
+
+
+Canton, MA
+
+
+Job Req code:
+712
+
+Category:
+Quality Systems
+
+We have unique opportunities and are always looking for exceptional talent. Join a company where you will have an opportunity to grow professionally and personally and give strength to others. Empowering Healing.
+
+Organogenesis corporate headquarters is located in Canton, Massachusetts, and we have an additional site in Norwood, Massachusetts. Our Canton location is the manufacturing site for PuraPly® AM (which heals acute and chronic wounds), and Apligraf® (for the treatment of surgical wounds). Our Norwood location manufactures ReNu® (offering regenerative and anti-inflammatory properties to create an environment that reduces pain) and NuCel® (which provides an enhanced environment for tissue growth, repair and healing). Canton is also the location for Customer Service, Reimbursement and other corporate teams, supporting our full range of products.
+
+The QA Disposition Specialist II performs quality activities in support disposition of multiple product releases. The position has a great deal of interaction with many internal departments, including Apligraf Production, FortaFlex Production, Cell Culture, Facilities, Validation, Calibration, Materials, Quality Control, and Materials Management. The position may also have interactions with external entities including contractors, suppliers, and customers. The QA Specialist performs a wide variety of activities to ensure compliance with applicable regulatory.
+
+JOB RESPONSIBILITIES
+
+• Review batch records to support new and existing products.
+• Assist in all activities associated with transferring final product for shipment
+• Review internal document for accuracy and compliance with GMP’s
+• Participate in cross-functional teams to support department and company goals
+• Perform additional QA functions as required
+• Support special project team activities, as needed.
+
+Requirements
+
+
+2-4 years of GMP experience in a Medical Device/Biotechnology industry. A Bachelor’s degree with demonstrated knowledge of scientific principles in a GMP/GLP regulated environment is desirable
+To apply to this job, click Apply Now
+****************************
+2.5
+Blink Health
+Senior Quality Assurance Engineer
+Westford, MA
+$64K-$92K (Glassdoor est.)
+Easy Apply
+2d
+---------------------------------
+MOHS Surgery RN:
+
+This position is responsible for providing nursing care to patients undergoing MOHS surgery, including pre-surgical patient evaluations and teaching and postoperative patient and family teaching. This position is also responsible for assisting with surgical procedures and assisting with patient care and patient flow.
+Duties and Activities: *
+Provide care according to the physician’s instruction and in accordance with documented techniques and procedures and established standards to maintain the health and general wellbeing of the patient.
+Perform initial assessment and evaluation of patient. Provide pre-operative and post-operative teaching for both patient and family members, explaining and recommending products, discussing medications, wound care, and potential complications, and answering patient questions.
+Provide assistance during surgery or other procedures such as wound checks. Hand instruments and perform and/or cut sutures. Keep operative area clean and organized. Administer anesthesia.
+Set up patients for surgery, including prepping area, draping with sterile drapes, setting up clean tray with anesthesia and preparing instruments.
+Prepare equipment and paper work for biopsies.
+Surgical instrument processing
+Dispense medications as needed and ordered by the physician.
+Communicate effectively with patients and co-workers in-person and over the phone
+Maintain appropriate records and documentation.
+Maintain RN practice consistent with OSHA, HIPAA, QA and clinical safety regulations.
+Maintain safety and well being of patient according to individual needs
+Provide adequate and appropriate safety precautions
+Provide an acceptable communication system for patients to contact the nurse.
+Maintain confidentiality and privileged communications related to patients.
+\*
+*Requirements*
+Current RN state license for Massachusetts
+Surgical or MOHS experience *REQUIRED*
+Minimum of two years clinical experience as an RN
+*License: **Registered Nurse (RN)*
+Job Type: Part-time
+
+Experience:
+surgical: 2 years (Required)
+License:
+RN (Required)
+Work Location:
+One location
+Relocation Assistance Provided:
+No
+Work Remotely:
+No
+****************************
+4
+Integrated Commissioning & Qualification
+Quality Assurance/Manufacturing Operations
+Boston, MA
+$38K-$113K (Glassdoor est.)
+Hiring Surge
+Easy Apply
+22d
+---------------------------------
+The candidate will be a part of the ICQ Consultants team and will be responsible for the review and approval of Quality Systems, batch records, Deviations, Risk Assessments, Capas and SOPs for Quality and Compliance activities with a focus on documentation review.
+
+EDUCATION & EXPERIENCE REQUIREMENTS
+B.S. degree in Biology, Biochemistry, Chemistry, Engineering or equivalent years’ experience working in FDA-regulated industries.
+RESPONSIBILITIES
+Successfully working within a multi-disciplinary team coordinating and delivering project activities meeting schedule, budgetary and quality expectations of the client.
+Customarily and regularly exercises discretionary and independent judgment in performing the job.
+Participate in training to ensure continued accreditation.
+Maintain a safe working environment for self, team members and clients operational or administrative staff.
+Other tasks in alignment with your skills and competencies as required by the project, client and/or management.
+REQUIRED EXPERIENCE
+Must have excellent organizational, verbal and written communication skills; with demonstrated ability to efficiently and effectively communicate with cross-functional teams and management on recommended course of action, with minimal assistance.
+Must have proficient computer skills and be experienced using MS Office software (Word, Excel and PowerPoint) and MS Project (as needed).
+Must be a self-starter, detail oriented and able to work independently with minimal supervision.
+Excellent troubleshooting skills; ability to react quickly to understand and solve problems.
+REQUIRED SKILLS
+5 to 10 years working in Quality Assurance Roles with experience in Bio-process manufacturing operations.
+Direct experience providing technical assessments within the following Quality Systems: Batch Records, Lot Release, Deviations, Risk Assessments, CAPAs, GMP investigation and Change Controls, assessing proposed changes to quality assurance process to identify requirements necessary to maintain validation status.
+Please note that only local candidates will be considered.
+Apply Now: click Easy Apply
+****************************
+2.5
+St. Elizabeth's Medical Center
+Med Tech, Microbiology dept, 40h/week, rotating shifts, no weekends
+Brighton, MA
+10d
+---------------------------------
+The candidate will be a part of the ICQ Consultants team and will be responsible for the review and approval of Quality Systems, batch records, Deviations, Risk Assessments, Capas and SOPs for Quality and Compliance activities with a focus on documentation review.
+
+EDUCATION & EXPERIENCE REQUIREMENTS
+B.S. degree in Biology, Biochemistry, Chemistry, Engineering or equivalent years’ experience working in FDA-regulated industries.
+RESPONSIBILITIES
+Successfully working within a multi-disciplinary team coordinating and delivering project activities meeting schedule, budgetary and quality expectations of the client.
+Customarily and regularly exercises discretionary and independent judgment in performing the job.
+Participate in training to ensure continued accreditation.
+Maintain a safe working environment for self, team members and clients operational or administrative staff.
+Other tasks in alignment with your skills and competencies as required by the project, client and/or management.
+REQUIRED EXPERIENCE
+Must have excellent organizational, verbal and written communication skills; with demonstrated ability to efficiently and effectively communicate with cross-functional teams and management on recommended course of action, with minimal assistance.
+Must have proficient computer skills and be experienced using MS Office software (Word, Excel and PowerPoint) and MS Project (as needed).
+Must be a self-starter, detail oriented and able to work independently with minimal supervision.
+Excellent troubleshooting skills; ability to react quickly to understand and solve problems.
+REQUIRED SKILLS
+5 to 10 years working in Quality Assurance Roles with experience in Bio-process manufacturing operations.
+Direct experience providing technical assessments within the following Quality Systems: Batch Records, Lot Release, Deviations, Risk Assessments, CAPAs, GMP investigation and Change Controls, assessing proposed changes to quality assurance process to identify requirements necessary to maintain validation status.
+Please note that only local candidates will be considered.
+Apply Now: click Easy Apply
+****************************
+2.3
+Pavilion Medical Home Care & Staffing, LLC
+Director of Clinical Services
+North Andover, MA
+Easy Apply
+27d
+---------------------------------
+JOB SUMMARY*
+The Director of Clinical Services is a registered professional nurse who is approved by the Board of Directors at the recommendation of the Administrator to organize and direct the Agency's clinical service programs.
+QUALIFICATIONS*
+Will hold a current license to practice professional nursing (RN) in MA.
+
+Prefer a BA degree. In lieu of a BA degree, two (2) years’ experience in a home care setting.
+
+Will have a minimum of two (2) years of nursing experience, one (1) of which has been in a supervisory or administrative role in a home health care setting.
+
+Must have a criminal background check
+RESPONSIBILITIES/ESSENTIAL FUNCTIONS*
+Oversees the clinical management of the Agency’s clinical department
+
+Assist the Administrator in planning the overall development and administration of the Agency as set forth in the policies and procedures
+
+Participates in the development of administrative policies and procedures relating to the Agency
+
+Directs implementation of approved work methods and procedures that reflect elements essential to rendering high quality care
+
+Participates in the review/analysis/appraisal of the effectiveness of the total Agency program
+
+Utilizes the OBQI/OBQM data reports to quantify Agency’s homecare performance against the national norms. Recommends to the Administrator methodology to change outcomes and improve OBQI scores.
+
+Oversees the implementation and evaluation of patient care services
+
+Aggregates record review summaries for PAC meetings
+
+Works closely with the recruiter in achieving satisfactory staffing leadership in promoting and maintaining standards for giving high quality care by all
+
+Assures that established PI/QA committees maintain the goal of meetings
+
+Assists the Administrator in planning/conducting annual PAC requirements
+
+Assists the Administrator in collecting data for Annual Agency Evaluation/Annual report
+
+Recognizes leadership potential/offers opportunities for leadership training/development Manages the clinical departmental budget seeking supplementals prior to exceeding the budgetary requirement
+
+Evaluates own job performance and utilization of resources in planning for professional growth.
+
+Receives and acts to resolve complaints subject to the agency’s grievance procedure in the capacity of “next higher level authority”. Apprises Administrator of potential legal risks
+
+Participates in employee termination process assuring documentation exists to support actions
+
+Ensures implementation of Agency continuing education program
+
+Projects a concerned, professional attitude and develops a positive rapport with all staff
+
+Establish mutual goal setting and achievement of standards
+
+Develops an open, positive rapport with community resources affiliated with the agency
+
+Maintain high visibility and availability while in the office
+
+Assists the Sales/Marketing department as requested
+
+Serves as a member of the PAC
+
+Participates in local organizations and activities related to home health care
+
+Participates in state and national organizations, meetings, seminars, workshops and activities Accommodates state/accreditation surveyor/staff during site visits
+
+Oversees assignment of the Primary case manager for patient admissions according to patient needs
+
+Other duties as assigned.
+
+Job Type: Full-time
+
+Experience:
+Clinical: 1 year (Preferred)
+****************************
+2.5
+St. Elizabeth's Medical Center
+Med Tech
+Brighton, MA
+20d
+---------------------------------
+At Steward Health Care System, we are committed to improving the health of our communities by delivering exceptional, personalized behavioral health care with dignity, compassion and respect. Our continued focus on the patient experience informs our caregivers in how to provide care that is respectful of and responsive to individual patient and family preferences, needs and values.
+
+We dedicate ourselves in the communities we serve to delivering affordable health care to all and being responsible partners. No matter what your role, as a member of the Steward family, you are a specialist in the making every patient and family feel right at home, every co-worker a key to our success, and every referring practice, a team of prized colleagues.
+
+In support of this, we commit ourselves to the following values:
+
+Compassion
+
+Accountability
+
+Respect
+
+Excellence
+
+Stewardship
+
+If you are seeking a fast-paced, challenging position in an organization committed to achieving and maintaining a standard of excellence in all we do, our organization may be a good fit for you.
+
+Med Tech, 8 HRs/Week, Evening Shift (3:00PM to 11:30PM), Every Other Weekend, Holidays Required
+
+I. Position Function:
+
+Process and perform routine and specialized laboratory testing on blood, urine, tissue and other body fluid secretions.
+
+Proficiently functions as a technologist in one or more of the following areas:
+Clinical Chemistry
+Clinical Hematology
+Works collaboratively as a team to monitor and maintain instrumentation, ensure appropriate quality control and to continuously pursue quality improvement in all aspects of laboratory function.
+
+Interfaces with staff and health care providers as required to meet customer expectations for laboratory service.
+
+II. Job Relationships:
+
+Reports to section Supervisor.
+
+Works collaboratively with staff in the following departments:
+Specimen Processing
+Customer Service
+Phlebotomy
+Couriers
+III. Authority:
+
+To report and/or reject specimen results as related to acceptable completion of preventive maintenance and quality control protocols.
+
+To request assistance as necessary from the Supervisor or Clinical Engineering.
+
+To discuss patient test outcomes with the patient's health care provider.
+
+IV. A. Responsibilities/Essential Functions:
+) "Provides superior customer service to internal and external clients, customers,
+and patients as referenced in the Service Excellence Standards."
+
+Demonstrates multitasking abilities as a contributing member of a multi-disciplined laboratory section.
+
+Supports medical center and departmental mission of excellence in service by continuously pursing quality improvement.
+
+Follows established procedures to perform routine, STAT or special tests recording all results accurately and meeting standards for complete and timely reporting.
+
+Demonstrates competence in all scheduled test protocols by successful challenge on periodic and annual basis.
+
+Demonstrates understanding of bodily processes as they relate to laboratory testing.
+
+Is able to correlate and evaluate testing with laboratory data available on an individual patient basis for the purposes of troubleshooting and possible follow up with clinicians.
+
+Is able to successfully troubleshoot methodology failures.
+
+Exhibits strong organizational skills.
+
+Draws on multi-departmental training and experience to process simultaneous duties in a timely fashion.
+
+Is able to work independently successfully.
+
+Performs all required Quality Control procedures; documents results accurately; follows through appropriately on all outliers.
+
+Operates, maintains and troubleshoots equipment successfully; documents all required activities.
+
+Notifies Supervisors of any unusual or unexpected results.
+
+Reports all critical values to the appropriate person and completes all required documentation.
+
+Maintains all records in a complete, accurate and legible manner.
+
+Is able to teach and communicate ideas and offer solutions to lab problems.
+
+Follows all organizational, departmental, and section policies (i.e. Universal Precautions, Fire Safety, QA documentation, Hazardous Waste Collection).
+
+Notifies Supervisors of all existing and/or potential problems that may compromise laboratory goal.
+
+Conducts self in a professional manner at all times (via apparel, telephone conversation, staff/peer interactions, etc.
+
+Assists with the orientation of new staff members, students, residents, Fellows, etc. as directed.
+
+Reports laboratory test results by using the Laboratory Information System as directed.
+
+Shows interest in job related continuing education, particularly with attendance at courses, classes, seminars and participation in lab meetings.
+
+Demonstrates a commitment to self-knowledge in technical skills and scientific knowledge by attending workshops and in-services when permissible both internal and external to the medical center.
+
+Supports the department goal of effective cooperation and communication with staff, peers and members of other hospital departments.
+
+Demonstrates reliability with consistent attendance and punctuality at work and department meetings.
+
+Performs other related duties as directed.
+
+B. Responsibilities/Non-Essential Functions:
+
+Files worksheets.
+
+Reviews lists to ascertain duties are complete.
+
+Participates in investigational and correlation studies as needed.
+
+Transports specimens and reports as requested.
+
+V. Reporting Requirements:
+
+Reports daily via the LIS, the results of testing to health care providers.
+
+Reports in numerical form, canned message format and free text.
+
+Reports problems, issues/client concerns as soon as detected to the section Supervisor.
+
+Verbally reports patient testing on demand.
+
+Reports laboratory problems on action logs.
+
+VI. Accountability:
+
+Shall be accountable for maintaining the confidentiality and security of all hospital-related and patient related data and information.
+
+Shall be accountable for abiding by all hospital policies and procedures.
+
+Shall be accountable for individual timeliness of reporting.
+
+Shall be accountable for the completion of all preventive maintenance and quality control logs.
+
+Shall be accountable for the quality of testing reported.
+
+VII. Qualifications:
+
+Minimum Education:
+
+Bachelor's degree in Medical Technology or a related science, attainment of degree within 6 months of start date,
+or
+Associate's degree in Medical Technology, or attainment of degree within 6 months of start date, with 2 years full time experience desired.
+
+Minimum Experience:
+
+Minimum skills/abilities:
+
+Follows oral and written instructions to be able to carry out complex laboratory procedures.
+
+Understands the risk and biohazard nature of the lab environment.
+
+Possesses manual dexterity sufficient to manipulate laboratory equipment.
+
+Possesses communication skills sufficient to clearly, completely and accurately verbally relay laboratory data.
+
+Certification/Licensure:
+
+Generalist multi-categorical certification, ASCP, NCA or HEW preferred or equivalent.
+
+Equal Opportunity Employer Minorities/Women/Veterans/Disabled
+
+Location: North · 0101.51520 SEH Core Lab
+Schedule: Part Time, Evening Shift, Evening Shift
+****************************
+4.2
+Sonos
+Salesforce QA Engineer
+Boston, MA
+$54K-$91K (Glassdoor est.)
+8d
+---------------------------------
+At Sonos we want to create the ultimate listening experience for our customers and know that it starts by listening to each other. As part of the Sonos team, you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their lives.
+Understanding our customers’ needs, behaviors and purchasing patterns will help us achieve our ultimate goal and drive exceptional customer experiences across our ecosystem. CRM is what ties this all together and we need you to help make it a reality. At Sonos our Salesforce footprint includes Sales/Service Cloud, Marketing Cloud (ExactTarget), and Commerce Cloud (B2B and B2C).
+
+In the role of Salesforce QA Engineer, you will be responsible for ensuring the quality of our solutions as we support and enhance our increasingly vital Salesforce ecosystem.
+
+What You'll Do
+Be the Salesforce.com quality assurance technical lead working with Data Services, Product Development, Web Development, Marketing, Sales & Customer Experience.
+Work with business partners to understand requirements, define test processes, and help drive improvements to meet business needs.
+Establish best practices for configuration, development, testing & change control.
+Stay current on Salesforce releases and critical updates to proactively mitigate release issues.
+Log and track identified system problems and work with technology teams through resolution.
+Document and maintain Sonos’ Salesforce ecosystem and provide knowledge transfer to various teams.
+Train users on new functionality as part of the standard release process.
+Work with technical team members to train on complex Salesforce concepts.
+Triage and drive bug resolution with appropriate teams.
+Collaborate with business analysts and developers to prepare testing plans to ensure successful deployments.
+Own and manage both functional and regression test automation.
+Identify and define test metrics to measure product quality.
+Implement load testing to ensure platform stability at scale.
+Leverage Salesforce Tooling API and debug logs to effectively troubleshoot issues.
+What You'll Need
+
+Basic Qualifications:
+5+ years experience testing software.
+Working knowledge of Salesforce.com.
+Knowledge of testing tools (Provar, Selenium).
+Familiarity with continuous integration systems, preferably Jenkins.
+Experience programming with one or more of the following languages: Python, Java Script
+Experience with version control and release tools (GitHub, Gearset).
+Knowledge of Salesforce Tooling API and Debug logs.
+Excellent analytical and problem solving skills with a keen attention to detail.
+Must be customer focused and work effectively with cross functional teams
+
+Preferred Qualifications:
+Experience with Test case management tools (Testrail,...)
+Experience with automation test framework (pytest, webdriverIO,...)
+Experience working in an Agile environment.
+Experience with chatbot testing.
+Experience with RESTful APIs testing.
+To apply to this job, click Apply Now
+****************************
+4.3
+Glaukos Corporation
+Senior Validation Engineer Specialist
+Burlington, MA
+$71K-$122K (Glassdoor est.)
+Easy Apply
+20d
+---------------------------------
+When you join us at Glaukos, you will be a part of the first company to bring to market Micro-Invasive Glaucoma Surgery (MIGS), the micro-invasive procedure which revolutionized the treatment and management of glaucoma. In 2012, we launched our first MIGS device—the iStent®—in the United States, followed by our next-generation iStent inject® device in September 2018.
+
+In November 2019, Glaukos acquired Avedro, maker of the first and only FDA-approved cross-linking technology for progressive keratoconus. And we continue to seek to leverage our platform technologies to build a comprehensive and proprietary portfolio of micro-scale surgical and pharmaceutical therapies for glaucoma, corneal health, and retinal diseases.
+
+Our company completed an initial public offering in June of 2015, and our shares are traded on the New York Stock Exchange under the ticker symbol “GKOS”. Our global headquarters is located in San Clemente, California with additional locations in Waltham and Burlington, Massachusetts.
+How will you make an impact?*
+The Quality Assurance, Senior Validation Engineer Specialist,based in Burlington, Massachusetts will be key in supporting the process development and validation activities at our contract manufacturing sites. This individual will assure the contract manufacturing sites are aligned with regulatory expectations as we transition from a clinical CMO to a Commercial CMO. The successful candidate’s primary role will be to oversee process development, process validation, equipment & facility qualification/validation, and cleaning validation projects for our future Commercial Products. The Senior Validation Engineer role involves designing, executing, and concluding manufacturing equipment qualification, manufacturing studies, process validation, operational and performance qualifications of equipment and utility systems, as well as writing SOPs where applicable.
+What will you do?*
+Provide QA oversight of process development and validation activities for manufacturing equipment, utilities, depyrogenation and sterilization to support the manufacturing facility projects and keep the facility in a validated state.
+Responsible for review/approval of commissioning documentation, validation/requalification protocols, reports and support records to ensure compliance with local procedures, timely resolution of documentation, compliance, and quality system issues.
+Support the validation execution strategy and timeline with validation management and project team for manufacturing equipment, utilities, automation, and cleaning validation/requalification.
+Review validation documents following established standards and templates, including but not limited to the following: validation plans (including project plans and validation status lists); Qualification / Validation Protocols and Summary Reports; Standard Operating Procedures related to validation execution; Risk Assessments and Impact Assessments; specification documentation; qualification/validation protocols, eg IQ/OQ/PQ.
+Provide oversight over validation testing as needed according to written procedures.
+Review/approve validation discrepancy investigations and proposed corrective actions.
+Engage in quality system continuous improvement initiatives to enforce the quality culture.
+Provides technical input to process/validation deviations; provides assessments for change requests on direct impact systems; and identifies qualification requirements to ensure the validated state is maintained.
+How will you get here?*
+Education: *
+Bachelor's degree from an accredited institution with five (5) years of pharmaceutical quality experience, knowledge of Validation Lifecycle Approach (e.g. ASTM E2500, GAMP).
+Master’s degree from an accredited institution with two (2) years of pharmaceutical quality experience, knowledge of Validation Lifecycle Approach (e.g. ASTM E2500, GAMP).
+Requirements: *
+Excellent technical writing and verbal communication skills
+Ability to read/interpret process development and characterization documents
+Ability to work as part of a high performing team and collaborate effectively with staff at all levels.
+Must have well-developed interpersonal skills with the ability to establish highly functional relationships with diverse personalities both within and outside the company.
+Demonstrated ability to manage multiple activities while maintaining a high level of organization.
+Demonstrates initiative; ability to undertake additional responsibilities and respond to situation as they arise with little or no supervision.
+Proficiency in Microsoft Office including Word, Excel, PowerPoint, Project and Visio.
+Ability to make independent sound decisions and independently manage priorities in alignment with department and site drivers under general supervision.
+Ability to interpret and relate Manufacturing process, validation standards for implementation, and review to functional areas.
+Good knowledge of Biopharmaceutical and process engineering.
+Good understanding of cGMP guidelines applicable for US FDA.
+Good understanding of ICH Q7, Q8, Q9, Q10 and other international regulatory requirements.
+Generous. Innovative. Leadership-driven. Family-oriented. Socially responsible. These are just a few of the terms our employees use to describe their experiences as a part of the Glaukos family.
+
+Those may seem like big aspirations, but here at Glaukos, we recognize the deep significance and profound meaning that comes from knowing that we can make a meaningful difference by helping improve eyesight of people worldwide. And because we’re a rapidly growing company with a dynamic, fast-paced culture, individual employees here are empowered with more diverse and enriching challenges than might not be possible at a larger company, and more fulfillment in knowing every person and every task is directly tied to making a difference in the life of others.
+
+We offer competitive salary (based on experience), bonus eligibility, medical/dental/vision, life insurance, stock options, 401(k) Employer Match, Employee Stock Purchase Program, generous paid time off & paid holidays as well as time-off to volunteer in the community, plus the opportunity to work for a company that is pioneering a new glaucoma treatment class! Check out our profile on The Muse to get an inside look at our company culture. Glaukos has been named one of the Top Workplaces by the Orange County Register for the past 3 years!
+Glaukos Corporation _is an Equal Opportunity/Affirmative Action Employer. _*_All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law._
+Job Type: Full-time
+
+Pay: From $45.00 per hour
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Location:
+Burlington, MA 01803 (Required)
+This Company Describes Its Culture as:
+Innovative -- innovative and risk-taking
+People-oriented -- supportive and fairness-focused
+Team-oriented -- cooperative and collaborative
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+No
+****************************
+Beth Israel Deaconess Hospital-Milton
+Registered Nurse
+Quincy, MA
+20d
+---------------------------------
+Beth Israel Lahey Health is committed to improving the health of our community by providing exceptional, personalized health care with dignity, compassion and respect.
+
+Beth Israel Lahey Health Urgent Care is seeking a Registered Nurse for the new Quincy location. Position is full time, varied shifts day/evening/weekend/holiday. The RN is responsible for all nursing care provided to patients in the Urgent Care Department. Under the supervision of the Medical Director, or designee and within the framework of the RN license, participates in the following activities:
+
+Provides patient care utilizing the Nursing Process:
+
+systematically assesses the health status of the patient
+
+analyzes and interprets data and makes nursing judgments regarding care
+
+plans, implements and coordinates nursing interventions
+
+evaluates outcome of nursing interventions
+
+revises/updates plan of care
+
+documents nursing process clearly and concisely in EMR
+
+Communicates nursing plan effectively
+
+Duties/Responsibilities:
+
+Provides and coordinates health teaching for patient and/or patient representative.
+Collaborates, cooperates and communicates with other health care providers to ensure quality and continuity of care.
+Monitor patients appropriately and reports any changes to provider.
+Administers medications in a safe and effective manner.
+Considers specific cultural beliefs and practices when caring for patients. Utilizes interpreter services for patients with limited English proficiency as needed.
+Maintains communication with patients and families
+Provides care appropriate to the age groups of patients regularly served; seeks assistance for resources of other age groups that need care.
+Actively participates in Q.I. studies and unit meetings. Including QA of all tests results.
+Contribute to the team effort by supporting all team members and maintaining an open and positive attitude.
+
+QUALIFICATIONS:
+
+PREFERRED EDUCATION:
+
+Min Education: Equivalent to a graduate of an accredited school of nursing, current licensure, in good standing, by the Massachusetts Board of Registration in Nursing.
+
+Bilingual English/Mandarin/Cantonese Preferred
+
+MINIMUM EXPERIENCE:
+
+2 years current nursing experience required
+
+2 years ambulatory or urgent care preferred
+
+CERTIFICATION:
+
+American Heart Association BLS, ACLS and PALS required
+
+OTHER SKILLS REQUIRED:
+
+Current IV skills with completion of IV competency required.
+****************************
+3.4
+Benchmark Senior Living
+Resident Care Coordinator
+Framingham, MA
+$24K-$40K (Glassdoor est.)
+13d
+---------------------------------
+JOB DESCRIPTION
+
+Insert community name is seeking a Resident Services Coordinator will assist the Memory Care Director and Wellness Director with administrative tasks for our community. Candidates must be a licensed CNA with previous experience in scheduling and excellent customer service skills.
+
+PRINCIPLE DUTIES AND RESPONSIBILITIES
+
+Assures and maintains compliance with all resident care and state related regulations
+Provides information and support to residents and families to ensure a positive customer experience
+Participates in the QA process
+Develops RCA staffing schedule in conjunction with the Wellness Director and Memory Care Director and monitors overtime usage.
+Assembles resident records for new move ins.
+Checks SAMM / MAR for completio
+Files resident documents in resident records.
+Maintain in-service logs, notifies Director when hours are not met.
+Coordinates QA meetings in conjunction with Wellness Director.
+Supervises Activities of the Resident Care Staff
+Answers urgent resident call alarms
+Reviews shift and communication logs to ensure appropriate follow up
+Serves as a coach and mentor staff
+JOB REQUIREMENTS
+
+Requirements:
+
+Certified Nursing Assistant in MA with previous experience in scheduling
+Computer skills preferred
+Represents the community with a positive attitude and pride when interacting with potential residents and families.
+Physically able to move at least 50 lbs. without assistance.
+****************************
+5
+Abacus Insights
+Sr. Software Engineer in Test
+Boston, MA
+Easy Apply
+3d
+---------------------------------
+Abacus Insights is a mission-driven, start-up technology company that is focused on improving health outcomes, lowering the cost of healthcare, and delivering a more seamless healthcare experience. At our core, we are passionate about advancing healthcare and improving people's lives through technology.
+
+Abacus Insights provides a flexible, efficient, and secure platform that organizes and exchanges data from various sources and formats, allowing healthcare companies to uncover differentiated insights that address their customers' needs. Our employees know that they play an active role in keeping our customers data safe and are responsible for ensuring that our comprehensive policies and practices are met.
+
+With our deep expertise in cloud-enabled technologies and knowledge of the healthcare industry, we have built an innovative data integration and management platform that allows healthcare payers access to data that has been historically siloed and inaccessible. Through our platform, these health insurance payers can ingest and manage all the data they need to transform their business by supporting their analytical, operational, and financial needs.
+
+Through this mission and passion to aid people and population health, we have built a highly successful SaaS business that is heavily funded (since our founding in 2017 we have over 53 million) by leading VC firms who have deep expertise in the healthcare and technology industries. At Abacus, we are solving problems of massive scale and complexity in an industry that is not only ripe for disruption but requires innovation. We see massive growth in our future and would love for you to be a part of it!
+
+The Abacus QA team is looking for a Sr. Software Engineer in Test that will provide technical leadership, implement test strategy, and contribute to our suite of automated tests. This is a critical member of our team that will help define acceptance criteria for multiple test types, including performance testing and recommending best-practice testing tools. This role will work across multiple applications and technologies and will collaborate heavily across our agile scrum teams.
+
+Roles and Responsibilities:
+Contribute to the design, development, and maintenance of our test automation framework
+Ensure high-quality software releases via continuous and iterative testing approach
+Work with complex applications developed on AWS, PCF, Azure, or similar platforms
+Participate as a Subject Matter Expert in internal review of software components and systems
+Help us test highly-scalable distributed platforms, serverless applications, data pipelines, data migration pipelines, and data warehouse using Amazon Web Services cloud technologies like S3, Athena, Redshift, Kubernetes, RDS, Step function, Lambdas, EKS cluster, Autoscaling group, Kinesis, SQS.
+Requirements:
+Strong programming skills, primarily in Python/Java. Experience in multiple programming language is preferred.
+Web Services knowledge such as HTML, CSS, JavaScript, React, and Redux
+Be a vocal champion of quality
+Ability to read and analyze application logs, GC logs, thread dumps, head dumps etc. Experience in JVM and SQL queries performance tuning
+Ability to identify system bottlenecks and resource leaks with strong troubleshooting, problem solving & reasoning skills
+Experience in building software on cloud platforms such as AWS
+Experience in microservices architecture, container management, service mesh, API gateways and tools like Kubernetes
+Equal Opportunity Employer:
+As a mission-led technology company that is helping to drive better healthcare outcomes, Abacus Insights believes that the best innovation and value we can bring to our customers comes from diverse ideas, thoughts, experiences, and perspectives. We are dedicated to building diverse teams, and as such provide equal employment opportunities to all employees and applicants for employment. As well as prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+Start your job application: click Easy Apply
+****************************

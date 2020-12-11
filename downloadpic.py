@@ -1,6 +1,8 @@
 import urllib.request
-import time
+
 from selenium import webdriver
+
+import time
 
 myChrome = webdriver.Chrome("chromedriver.exe")
 myChrome.get("https://www.redfin.com/")

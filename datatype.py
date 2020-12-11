@@ -18,6 +18,7 @@ z = range(1,3)
 #print(type(y))
 #print(type(z))
 print(x[2])
+print(x[-2])
 x[1] = "bananas"
 print(x[1])
 print(y[2])
